@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.articles-page-bg {
+    background-color: #225db0;
+    background-size: cover;
+    height: 100vh;
+}
+
+.articles-page-h1 {
+    color: #ffffff;
+    font-family: "Roboto";
+    padding: 10px;
+    margin-left: 30px;
+    font-size: 30px;
+
+}
+
+.articles-page-p {
+    color: #ffffff;
+    font-family: "Roboto";
+    margin-left: 30px;
+    font-size: 17px;
+    padding: 10px;
+
+}
+
+.picture-container-bg {
+    background-color: #ffffff;
+    background-size: cover;
+    border-radius: 10px;
+    width: 160px;
+    height: 110px;
+    padding: 10px;
+
+}
+
+.picture-container-bg-p {
+    color: #1f2933;
+    font-family: "Roboto";
+    margin-left: 30px;
+    font-size: 17px;
+    padding: 10px;
+    text-align: center;
+
+
+}
+
+.image-edit {
+    height: 70px;
+    width: 80px;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+
+.curousal-edit {
+
+    margin: 10px;
+
+}
+
+.list-bg {
+    background-color: #225db0;
+    min-height: 100vh;
+    width: 100%;
+    padding: 10px;
+}
+
+.button-edit {
+    border-color: #ffffff;
+    background-color: #225db0;
+    color: #ffffff;
+    margin-left: 120px;
+}
